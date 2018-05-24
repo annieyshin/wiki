@@ -4,6 +4,12 @@
   top: 0;
   width: 160px;
   left: 0;
+  margin-left: 20px;
+}
+
+.navlinks {
+padding-top: 10px;
+  padding-left: 15px;
 }
 
 .topnav {
@@ -11,6 +17,16 @@
   width: 100%;
   background-color: #F9F9F9;
   padding-top: 16px;
+}
+.panel-heading{
+  background-color: #cef2e0;
+  border: 1px solid #a3bfb1;
+}
+
+.panel-title {
+
+font-weight: bold;
+  color: black;
 }
 
 #welcome {
@@ -26,4 +42,33 @@
 
 img {
   max-width: 100%;
+}
+
+.col-md-2 {
+
+  padding-top: 10px;
+}
+
+#left-body1 {
+
+background-color: #F5FFFA;
+
+}
+
+#left-body2 {
+
+background-color: #F5FFFA;
+
+}
+
+#right-body1 {
+
+background-color: #f5faff;
+
+}
+
+#right-body2 {
+
+background-color: #f5faff;
+
 }
