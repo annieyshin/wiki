@@ -1,0 +1,28 @@
+.sidenav {
+
+  float:left;
+  position:fixed;
+  height: 100%;
+  width: 160px;
+  background-color: #F9F9F9;
+  padding-top: 16px;
+}
+
+.topnav {
+
+  height: 90px;
+  width: 100%;
+  background-color: #F9F9F9;
+  padding-top: 16px;
+}
+
+#welcome {
+  border: 1px solid grey;
+  background-color: #F9F9F9;
+  margin: 10px 0 20px 0;
+}
+
+img {
+
+  max-width: 100%;
+}
